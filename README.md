@@ -8,13 +8,6 @@ Designed to bring coding, ideation, and execution into a single workspace.
 
 ---
 
-## Live Demo
-
-[Live Demo Here]
-
-
----
-
 # Preview
 
 <!-- Replace these placeholders with actual images -->
