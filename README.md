@@ -45,7 +45,7 @@ Designed to bring coding, ideation, and execution into a single workspace.
 
 ## Real-Time Collaboration
 
-![Collaboration](./screenshots/collaboration.gif)
+![Collaboration](./screenshots/collaboration.png)
 
 ---
 
