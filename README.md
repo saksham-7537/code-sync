@@ -271,30 +271,6 @@ AI_API_KEY=
 
 ---
 
-# Future Enhancements
-
-* Terminal integration
-* GitHub repository import
-* AI pair programming
-* Deployment from editor
-* Persistent collaborative sessions
-* Workspace templates
-
----
-
-# Resume Highlights
-
-This project demonstrates:
-
-* Full Stack Development
-* Real-Time Systems
-* WebSocket Communication
-* AI Integration
-* Cloud IDE Architecture
-* Docker-based Runtime Isolation
-* Scalable Frontend Architecture
-
----
 
 ## Author
 
